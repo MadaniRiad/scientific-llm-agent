@@ -1,0 +1,7 @@
+openai
+PyMuPDF
+streamlit
+langchain
+python-dotenv
+tqdm
+
